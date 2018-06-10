@@ -1,6 +1,4 @@
 from tkinter import *
-
-
 calculator = Tk()
 
 calculator.geometry("400x750")
